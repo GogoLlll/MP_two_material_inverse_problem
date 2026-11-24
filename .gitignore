@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Сгенерированные данные: детерминированно воссоздаются за ~1 с скриптом experiments/02_data.py (или verify.py)
+data/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+.vscode/
+.idea/
